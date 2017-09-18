@@ -2,8 +2,7 @@
   "name": "react-absolute-grid",
   "version": "3.0.0",
   "description": "An absolutely positioned responsive touch-enabled fully configurable React grid with drag/drop, filtering, and sorting",
-  "main": "dist/index.js",
-  "node": "dist/AbsoluteGrid.js",
+  "main": "dist/AbsoluteGrid.js",
   "scripts": {
     "babel": "rm -rf dist && babel lib --out-dir dist",
     "build": "webpack -p --config webpack/build.config.js --optimize-minimize",
