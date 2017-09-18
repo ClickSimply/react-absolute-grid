@@ -20,7 +20,7 @@ var _react = require('react');
 
 var _react2 = _interopRequireDefault(_react);
 
-var _BaseDisplayObject = require('./BaseDisplayObject.jsx');
+var _BaseDisplayObject = require('./BaseDisplayObject.js');
 
 var _BaseDisplayObject2 = _interopRequireDefault(_BaseDisplayObject);
 
